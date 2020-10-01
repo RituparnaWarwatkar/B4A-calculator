@@ -1,4 +1,4 @@
-package com.ritu.calc;
+package com.ritu.calculator;
 
 
 import anywheresoftware.b4a.B4AMenuItem;
